@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="113a58e2-4b59-4453-8f13-87e0638acf1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="256PT6KVsek7GNfXUfxSUvZ3GWu" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.EnumTest02">
+    <configuration name="BigDecimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BigDecimalTest" />
+      <module name="Number" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumTest01" />
+      <module name="EnumTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumTest02" />
+      <module name="EnumTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomTest02" />
+      <module name="Rondom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RondomTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RondomTest01" />
+      <module name="Rondom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EnumTest02" />
+        <item itemvalue="Application.EnumTest01" />
+        <item itemvalue="Application.RandomTest02" />
+        <item itemvalue="Application.RondomTest01" />
+        <item itemvalue="Application.BigDecimalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="113a58e2-4b59-4453-8f13-87e0638acf1c" name="Default Changelist" comment="" />
+      <created>1644844567378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644844567378</updated>
+      <workItem from="1644844569846" duration="12750000" />
+      <workItem from="1644930632759" duration="9578000" />
+      <workItem from="1645253592320" duration="7185000" />
+      <workItem from="1645274497662" duration="7821000" />
+      <workItem from="1645324162635" duration="4422000" />
+      <workItem from="1645348798214" duration="592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Project_Structure" timestamp="1645337867252">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1645337867252" />
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1644940068817">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1644940068817" />
+    <state x="389" y="110" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1645277955696">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="389" y="110" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.864@0.0.1536.864" timestamp="1645277955696" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1644940673640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1644940673640" />
+    <state width="1493" height="156" key="GridCell.Tab.0.bottom" timestamp="1645338612363">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="156" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1645338612363" />
+    <state width="1493" height="156" key="GridCell.Tab.0.center" timestamp="1645338612363">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="156" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1645338612363" />
+    <state width="1493" height="156" key="GridCell.Tab.0.left" timestamp="1645338612363">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="156" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1645338612363" />
+    <state width="1493" height="156" key="GridCell.Tab.0.right" timestamp="1645338612363">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="156" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1645338612363" />
+    <state x="178" y="42" key="new project wizard" timestamp="1645339874683">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="42" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1645339874683" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1645278075502">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1645278075502" />
+  </component>
+</project>
