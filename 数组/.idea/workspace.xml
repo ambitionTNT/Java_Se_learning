@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2ddf760-543f-4875-928b-b28b4a6e1d37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24wvPzQvjgP6tenVK63IETJOntT" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.ArraySearch">
+    <configuration name="ArraySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySearch" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTest09" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTest10" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysTest01" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysTest02" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArrayTest09" />
+      <item itemvalue="Application.ArrayTest10" />
+      <item itemvalue="Application.ArraysTest01" />
+      <item itemvalue="Application.ArraysTest02" />
+      <item itemvalue="Application.ArraySearch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArraySearch" />
+        <item itemvalue="Application.ArraysTest02" />
+        <item itemvalue="Application.ArraysTest01" />
+        <item itemvalue="Application.ArrayTest10" />
+        <item itemvalue="Application.ArrayTest09" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2ddf760-543f-4875-928b-b28b4a6e1d37" name="Default Changelist" comment="" />
+      <created>1644554443213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644554443213</updated>
+      <workItem from="1644554445874" duration="12241000" />
+      <workItem from="1644830829225" duration="9085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Project_Structure" timestamp="1644554446647">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1644554446647" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644571548586">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1644571548586" />
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1644571981885">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1644571981885" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1644844556799">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1644844556799" />
+    <state width="1493" height="249" key="GridCell.Tab.0.bottom" timestamp="1644917799398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="249" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1644917799398" />
+    <state width="1493" height="249" key="GridCell.Tab.0.center" timestamp="1644917799398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="249" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1644917799398" />
+    <state width="1493" height="249" key="GridCell.Tab.0.left" timestamp="1644917799398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="249" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1644917799398" />
+    <state width="1493" height="249" key="GridCell.Tab.0.right" timestamp="1644917799398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="249" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1644917799398" />
+    <state x="178" y="85" key="new project wizard" timestamp="1644844567072">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="85" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1644844567072" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1644834418175">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1644834418175" />
+  </component>
+</project>
