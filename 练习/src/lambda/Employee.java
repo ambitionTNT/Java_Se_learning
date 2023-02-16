@@ -12,8 +12,9 @@ import java.util.Objects;
 public class Employee {
     private int stuId;
     private String name;
-    private int age;
-    private double salary;
+    private Integer age;
+    private Double salary;
+    private Status status;
 
     public Employee() {
     }
@@ -22,22 +23,35 @@ public class Employee {
         this.stuId = stuId;
     }
 
-    public Employee(int stuId, String name, int age, double salary) {
+    public Employee(int stuId, String name) {
+        this.stuId = stuId;
+        this.name = name;
+    }
+
+    public Employee(int stuId, String name, Integer age, Double salary) {
         this.stuId = stuId;
         this.name = name;
         this.age = age;
         this.salary = salary;
     }
 
+    public Employee(int stuId, String name, Integer age, Double salary, Status status) {
+        this.stuId = stuId;
+        this.name = name;
+        this.age = age;
+        this.salary = salary;
+        this.status = status;
+    }
+
     public int getStuId() {
         return stuId;
     }
 
-    public int getAge() {
+    public Integer getAge() {
         return age;
     }
 
-    public void setAge(int age) {
+    public void setAge(Integer age) {
         this.age = age;
     }
 
@@ -53,14 +67,32 @@ public class Employee {
         this.name = name;
     }
 
-    public double getSalary() {
+    public Double getSalary() {
         return salary;
     }
 
-    public void setSalary(double salary) {
+    public void setSalary(Double salary) {
         this.salary = salary;
     }
 
+    public Status getStatus() {
+        return status;
+    }
+
+    public void setStatus(Status status) {
+        this.status = status;
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "stuId=" + stuId +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                ", salary=" + salary +
+                ", status=" + status +
+                '}';
+    }
 
     @Override
     public boolean equals(Object o) {
@@ -68,23 +100,14 @@ public class Employee {
         if (o == null || getClass() != o.getClass()) return false;
         Employee employee = (Employee) o;
         return stuId == employee.stuId &&
-                age == employee.age &&
-                Double.compare(employee.salary, salary) == 0 &&
-                Objects.equals(name, employee.name);
+                Objects.equals(name, employee.name) &&
+                Objects.equals(age, employee.age) &&
+                Objects.equals(salary, employee.salary) &&
+                status == employee.status;
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(stuId, name, age, salary);
-    }
-
-    @Override
-    public String toString() {
-        return getClass().getName()+"{" +
-                "stuId=" + stuId +
-                ", name='" + name + '\'' +
-                ", age=" + age +
-                ", salary=" + salary +
-                '}';
+        return Objects.hash(stuId, name, age, salary, status);
     }
 }

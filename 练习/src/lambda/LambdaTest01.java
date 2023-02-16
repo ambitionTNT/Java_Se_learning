@@ -20,12 +20,15 @@ public class LambdaTest01 {
 
     @Test
     public void test1(){
-        List<Employee> employees = Arrays.asList(new Employee(101,"张三",18,9999.11),
-        new Employee(102,"王二",28,8976),
-        new Employee(103,"李四",19,9897),
-        new Employee(104,"赵六",58,198976),
-        new Employee(104,"田其",36,123123)
-    );
+        List<Employee> employees = Arrays.asList(
+                new Employee(101,"张三",18,9999.11),
+                new Employee(102,"王二",28,8976.22),
+                new Employee(103,"李四",19,9897.22),
+                new Employee(104,"赵六",58,198976.34),
+                new Employee(104,"田其",36,123123.43),
+                new Employee(104,"田其",36,123123.43),
+                new Employee(104,"田其",36,123123.312)
+        );
 
 
 
@@ -40,6 +43,34 @@ public class LambdaTest01 {
             System.out.println(e);
         }
 
+    }
+
+
+    //需求:获取当前公司中员工年龄大于35的员工信息
+    public List<Employee> filterEmployee(List<Employee>list){
+        List<Employee> emps = new ArrayList<>();
+        for (Employee employee :list){
+            if (employee.getAge()>35){
+                emps.add(employee);
+            }
+        }
+        return emps;
+    }
+    @Test
+    public void test04(){
+        List<Employee> employees = Arrays.asList(
+                new Employee(101,"张三",18,9999.11),
+                new Employee(102,"王二",28,8976.22),
+                new Employee(103,"李四",19,9897.22),
+                new Employee(104,"赵六",58,198976.34),
+                new Employee(104,"田其",36,123123.43),
+                new Employee(104,"田其",36,123123.43),
+                new Employee(104,"田其",36,123123.312)
+        );
+        List<Employee> list = filterEmployee(employees);
+        for (Employee employee:list){
+            System.out.println(employee);
+        }
     }
     /*
     功能性函数

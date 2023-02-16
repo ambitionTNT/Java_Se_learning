@@ -29,7 +29,7 @@ class Employee{
     static
     {
         Random generator = new Random();
-        //set nextId to a random number between 0 and 9999;
+        //java_Set.set nextId to a random number between 0 and 9999;
         nextId =generator.nextInt(10000);
     }
 

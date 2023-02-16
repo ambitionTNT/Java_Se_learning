@@ -44,7 +44,7 @@ public class PairTest3 {
     /**
      *
      * @param a managers
-     * @param result the result set
+     * @param result the result java_Set.set
      */
     public static void minmaxBonus(Manager[]a , Pair<? super Manager> result){
         if (a.length == 0) return;
@@ -66,7 +66,7 @@ public class PairTest3 {
     /**
      *
      * @param a the array of  managers
-     * @param result:result set
+     * @param result:result java_Set.set
      */
     public static void maxminBonus(Manager[] a, Pair<? super Manager> result){
         minmaxBonus(a, result);
